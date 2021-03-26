@@ -39,7 +39,7 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-           The databae woodshop is a small woodshop based out of the living room of journalist <a href="https://twitter.com/dataeditor">Steven Rich</a>. Rich has been building on and off over the past 15 years, opening his own woodshop in 2018 and formalizing the shop into a business in 2020. The shop is based out of southwest Washington, DC and is open when Rich isn't working his day job. The shop specializes in the design and constuction of unique wood furniture and objects, built to the specifications of customers and their space and with their style.
+           The databae woodshop is a small woodshop based out of the living room of journalist <a href="https://twitter.com/dataeditor">Steven Rich</a>. Rich has been building on and off over the past 15 years, opening his own woodshop in 2018 and formalizing the shop into a business in 2020. The shop is based out of southwest Washington, DC and is open when Rich isn't working his day job. The shop specializes in the design and construction of unique wood furniture and objects, built to the specifications of customers and their space and with their style.
           </p>
           {close}
         </article>
@@ -145,7 +145,7 @@ class Main extends React.Component {
             <img src={pic04} alt="" />
           </span>
           <p>
-           The databae woodshop is sells a small collection of merchandise including merch with art commissioned by DC-area artists. Go check out the shop at <a href="https://merch.datab.ae">merch.datab.ae</a>
+           The databae woodshop sells a small collection of merchandise including merch with art commissioned by DC-area artists. Go check out the shop at <a href="https://merch.datab.ae">merch.datab.ae</a>
           </p>
           {close}
         </article>
