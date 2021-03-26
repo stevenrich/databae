@@ -87,7 +87,9 @@ class Main extends React.Component {
           <p>
           The databae woodshop is located in Washington, DC and depending on the size of build, will ship. For information on the shop, estimates for potential builds or collaborations (with wood or across mediums) the owner of the shop can be reached by text or by phone at (540) DATABAE (328-2223), at steven@datab.ae or via the contact form below. Because this is a side business, Steven will respond when he is able.
           </p>
-          <form method="post" action="#">
+          <form method="post" netlify-honeypot="bot-field" data-netlify="true" name="contact">
+	  <input type="hidden" name="bot-field" />
+	  <input type="hidden" name="form-name" value="contact" />
             <div className="field half first">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
