@@ -9,6 +9,11 @@ import ex02 from '../images/ex02.jpg'
 import ex03 from '../images/ex03.jpg'
 import ex04 from '../images/ex04.jpg'
 import ex05 from '../images/ex05.jpg'
+import ex06 from '../images/ex06.jpg'
+import ex07 from '../images/ex07.jpg'
+import ex08 from '../images/ex08.jpg'
+import ex09 from '../images/ex09.jpg'
+import ex10 from '../images/ex10.jpg'
 
 class Main extends React.Component {
   render() {
