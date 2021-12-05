@@ -63,6 +63,21 @@ class Main extends React.Component {
           <p>
             The woodshop has built wooden items large and small and every design is made with the client in mind. Here are a few of our recent projects. If you'd like to see more, check out our work on <a href="https://instagram.com/thatstevenrich">Instagram</a>.
             <span className="image main">
+            <img src={ex06} alt="" />
+            </span>
+            <span className="image main">
+            <img src={ex07} alt="" />
+            </span>
+            <span className="image main">
+            <img src={ex08} alt="" />
+            </span>
+            <span className="image main">
+            <img src={ex09} alt="" />
+            </span>
+            <span className="image main">
+            <img src={ex10} alt="" />
+            </span>
+	    <span className="image main">
             <img src={ex01} alt="" />
             </span>
             <span className="image main">
